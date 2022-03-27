@@ -1,0 +1,26 @@
+{
+  "name": "moodleautomation",
+  "version": "1.0.0",
+  "description": "Automate Moodle interaction",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArturoAmaya/MoodleAutomation.git"
+  },
+  "keywords": [
+    "Moodle",
+    "puppeteer"
+  ],
+  "author": "Arturo Amaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArturoAmaya/MoodleAutomation/issues"
+  },
+  "homepage": "https://github.com/ArturoAmaya/MoodleAutomation#readme",
+  "dependencies": {
+    "puppeteer": "^13.5.1"
+  }
+}
